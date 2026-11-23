@@ -8,7 +8,7 @@
   "server": {
     "ip": "quadpvp.aternos.me",
     "port":  48546,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
